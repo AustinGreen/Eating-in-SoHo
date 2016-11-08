@@ -20,6 +20,9 @@ list of popular lunch/dinner places in the neighborhood
 * Pho Viet Huong (viet crepe; noodles w pork)
 * Pongsri (thai; dope)
 
+## CHIC
+* Greecologies
+
 ## SOUTH OF BORDER
 * spanish spot (west side coffee shop)
 * lupe's 
